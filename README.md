@@ -10,12 +10,12 @@
 
 ### Languages and Tools:
 
-####Currently I use:
+#### Currently I use:
 
 - 🐍Python
 - ☕ Java
 - 🖥️ HTML & CSS
-- 
+
 <br />
 <br />
 
