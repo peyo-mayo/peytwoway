@@ -6,22 +6,14 @@
 - 🌱 I’m currently learning Python  🐍
 - 🥅 2022 Goals: Become skilled enough to contribute to open source.
 - ⚡ Fun fact about me: My favorite game is <span style="color: red;">UNDERTALE</span> 💖 
--
 
+---
 
 #### Currently I use:
 
 - 🐍Python
 - ☕ Java
 - 🖥️ HTML & CSS
-
-<br />
-<br />
-
----
-
-
-
 
 ---
 
@@ -30,8 +22,6 @@
 <a href="https://github.com/peytwoway/underfan">An UNDERTALE fan site</a>
 
 ---
-
-
 
 
 
