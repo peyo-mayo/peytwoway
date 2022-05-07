@@ -8,7 +8,6 @@
 - ⚡ Fun fact about me: My favorite game is <span style="color: red;">UNDERTALE</span> 💖 
 -
 
-### Languages and Tools:
 
 #### Currently I use:
 
