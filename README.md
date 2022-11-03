@@ -1,4 +1,4 @@
-# Hi there, I'm peytwoway, former alt of Peyoway👋
+# Heyo, I'm Peyo...
 
 ## I'm a Student who likes to code for fun.
 
